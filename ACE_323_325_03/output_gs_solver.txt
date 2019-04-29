@@ -1,0 +1,2410 @@
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    19
+   221
+     0
+     0
+ctrl2 =
+    0.1000
+    0.4440
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   523
+   648
+     0
+pe =
+     0
+ZlatGSE =
+  -16.5828
+ZlongGSE =
+   32.1380
+residue0 =
+  6.5003e-010
+ave_beta =
+     0
+ave_Vt =
+  2.6701e+004
+ave_VA =
+  3.1120e+005
+Mta =
+    0.0858
+Mta2 =
+    0.0993
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0950
+Continue to reconstruct the map... Please wait...
+X0 =
+         0
+    0.0119
+    0.0198
+    0.0278
+    0.0357
+    0.0436
+    0.0516
+    0.0595
+    0.0635
+    0.0675
+    0.0675
+    0.0714
+    0.0714
+Y0 =
+   -0.0421
+   -0.0417
+   -0.0413
+   -0.0409
+   -0.0405
+   -0.0401
+   -0.0397
+   -0.0393
+   -0.0389
+   -0.0389
+   -0.0385
+   -0.0389
+   -0.0385
+adjp =
+     0
+ans =
+Select Ab...
+??? Error using ==> <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\uitools\ginput.m',124,0)">ginput at 124</a>
+Interrupted by figure deletion
+
+Error in ==> <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',645,0)">hu34n at 645</a>
+[uB, dum]=ginput(1);
+
+Error in ==> <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,0)">hu12n at 381</a>
+hu34n;
+
+Error in ==> <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,0)">mygui>pushbutton6_Callback at 240</a>
+hu12n;
+
+Error in ==> <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,0)">gui_mainfcn at 96</a>
+        feval(varargin{:});
+
+Error in ==> <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,0)">mygui at 61</a>
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in ==>
+guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+
+
+??? Error while evaluating uicontrol Callback
+
+--------------- START dataplot.m ------------------
+percbefore =
+    40
+percafter =
+    40
+s =
+        1080          15
+Ytick =
+   0.100000000000000   5.000000000000000  10.000000000000000  30.000000000000000
+Yticklabel =
+0.1
+5  
+10 
+30 
+ptotmin =
+     0
+ptotmax =
+   1.379071285710136
+boundaries at DOY:
+ans =
+    3.244499999999534e+002
+ans =
+    3.247972222223179e+002
+******************************************************************
+------------------------- START prefr.m ------------------
+i1 =
+   523
+i2 =
+   648
+DATA\ACEall323_03.mat
+zeitraum =
+ACE 11/20/2003 10:47:60-11/20/2003 19:8:0
+number of magnetic field data points for MVUB:
+ndat_mag =
+   126
+limda =
+  1.0e+002 *
+   6.502157216492779
+   2.150075386211407
+   0.203721479173779
+X =
+   0.195617368913703  -0.194760896613191   0.961146210589058
+   0.870560751715001   0.485717130623871  -0.078758152542619
+   0.451506171112525  -0.852142630179326  -0.264565899689222
+aBxi =
+   7.317487094902272  35.365813782153438   6.547916963658631
+aBni =
+   -1.621278067706578e-016
+VHT =
+  1.0e+002 *
+  -6.102860167040892
+   0.029138661035864
+   0.102772874435476
+VHTi =
+  1.0e+002 *
+  -1.122055887038844   1.115174517333836  -5.895226028405680
+VHTn =
+    5.986678343551610e+002
+VHT0 =
+  1.0e+002 *
+  -6.682451546469772
+  -0.599307651658691
+   0.352408598031875
+aHT =
+   0.003957323236302
+   0.002836841022572
+  -0.000922748044741
+VHT0n =
+    6.471929313108691e+002
+aHTn =
+  -0.003479405176861
+DV =
+    3.748431512925538e+006
+aDV =
+    1.894363781152485e+006
+CCoef =
+   0.996075121144291
+aCCoef =
+   0.998011804572789
+X3n =
+   0.983639975344128
+LepZlatGSE2 =
+ -58.445484129389229
+LepZlongGSE2 =
+    1.118495992865741e+002
+Lambda1_zu_Lambda2 =
+   3.024153133509455
+Lambda2_zu_Lambda3 =
+  10.553994575983539
+LepZlatGSE =
+ -58.445484129389229
+LepZlongGSE =
+    1.118495992865741e+002
+walen_slope =
+   0.001916023298206
+pw_rie_rip =
+   0.001916023298206   0.164460815659820   1.179116236420528
+ans =
+S:\public_GS_code
+-------------------------MAIN RESULTS ------------------
+VHT =
+  1.0e+002 *
+  -6.102860167040892
+   0.029138661035864
+   0.102772874435476
+norm_VHT =
+    6.103795011608850e+002
+CCoef =
+   0.996075121144291
+d_in_AU =
+   0.122402306432689
+axis from MVUB in GSE
+ans =
+  -0.194760896613191
+   0.485717130623871
+  -0.852142630179326
+Orientation angles: Longitude Phi and Latitude Theta:
+phi_round =
+   112
+theta_round =
+   -58
+Eigenvector condition satisfied! L2/L3 greater 2
+------------------------- END prefr.m ------------------
+mygui
+pathtolook =
+ACE_323_325_03\ALLCASE.par
+fileex =
+     0
+ans =
+S:\public_GS_code\ACE_323_325_03
+pathtolook =
+ACE_208_210_04\ALLCASE.par
+fileex =
+     0
+ans =
+S:\public_GS_code\ACE_208_210_04
+pathtolook =
+ACE_345_355_08\ALLCASE.par
+fileex =
+     2
+ans =
+S:\public_GS_code\ACE_345_355_08
+--------------- START dataplot.m ------------------
+percbefore =
+    40
+percafter =
+    40
+s =
+        3960          15
+Ytick =
+   0.100000000000000   5.000000000000000  10.000000000000000  30.000000000000000
+Yticklabel =
+0.1
+5  
+10 
+30 
+ptotmin =
+     0
+ptotmax =
+   0.042443990287242
+boundaries at DOY:
+ans =
+    3.521361111111473e+002
+ans =
+    3.526138888889691e+002
+pathtolook =
+ACE_208_210_04\ALLCASE.par
+fileex =
+     0
+ans =
+S:\public_GS_code\ACE_208_210_04
+pathtolook =
+ACE_323_325_03\ALLCASE.par
+fileex =
+     0
+ans =
+S:\public_GS_code\ACE_323_325_03
+--------------- START dataplot.m ------------------
+percbefore =
+    40
+percafter =
+    40
+s =
+        3960          15
+Ytick =
+   0.100000000000000   5.000000000000000  10.000000000000000  30.000000000000000
+Yticklabel =
+0.1
+5  
+10 
+30 
+ptotmin =
+     0
+ptotmax =
+   0.042443990287242
+boundaries at DOY:
+ans =
+    3.521361111111473e+002
+ans =
+    3.526138888889691e+002
+--------------- START dataplot.m ------------------
+percbefore =
+    40
+percafter =
+    40
+s =
+        3960          15
+Ytick =
+   0.100000000000000   5.000000000000000  10.000000000000000  30.000000000000000
+Yticklabel =
+0.1
+5  
+10 
+30 
+ptotmin =
+     0
+ptotmax =
+   0.042443990287242
+boundaries at DOY:
+ans =
+    3.521361111111473e+002
+ans =
+    3.526138888889691e+002
+pathtolook =
+ACE_323_325_03\ALLCASE.par
+fileex =
+     0
+ans =
+S:\public_GS_code\ACE_323_325_03
+--------------- START dataplot.m ------------------
+percbefore =
+    40
+percafter =
+    40
+s =
+        1080          15
+Ytick =
+   0.100000000000000   5.000000000000000  10.000000000000000  30.000000000000000
+Yticklabel =
+0.1
+5  
+10 
+30 
+ptotmin =
+     0
+ptotmax =
+   1.379071285710136
+boundaries at DOY:
+ans =
+    3.244694444444031e+002
+ans =
+    3.247972222223179e+002
+--------------- START dataplot.m ------------------
+percbefore =
+    40
+percafter =
+    40
+s =
+        1080          15
+Ytick =
+   0.100000000000000   5.000000000000000  10.000000000000000  30.000000000000000
+Yticklabel =
+0.1
+5  
+10 
+30 
+ptotmin =
+     0
+ptotmax =
+   1.379071285710136
+boundaries at DOY:
+ans =
+    3.244972222222714e+002
+ans =
+    3.247972222223179e+002
+******************************************************************
+------------------------- START prefr.m ------------------
+i1 =
+   540
+i2 =
+   648
+DATA\ACEall323_03.mat
+zeitraum =
+ACE 11/20/2003 11:56:0-11/20/2003 19:8:0
+number of magnetic field data points for MVUB:
+ndat_mag =
+   109
+limda =
+  1.0e+002 *
+   6.017551013278378
+   1.681161385749336
+   0.184036346351855
+X =
+   0.168400367157453  -0.330157204094415   0.928782825490327
+   0.954702591387619   0.289133055356755  -0.070320966274871
+   0.245324842482369  -0.898553446871485  -0.363892050993663
+aBxi =
+  11.027877715246175  35.602547570800738  10.446808121639473
+aBni =
+    9.166979102409549e-015
+VHT =
+  1.0e+002 *
+  -6.040180875060414
+   0.104069033051383
+  -0.075701650349742
+VHTi =
+  1.0e+002 *
+  -0.936385196967946   2.092321006284294  -5.589787265765336
+VHTn =
+    5.929413305255765e+002
+VHT0 =
+  1.0e+002 *
+  -6.319289444331726
+   0.440703956196847
+  -0.171148702377762
+aHT =
+   0.002533551315148
+  -0.002177482246991
+   0.000163980215735
+VHT0n =
+    6.248953908426255e+002
+aHTn =
+  -0.002829181378924
+DV =
+    1.667557246413753e+006
+aDV =
+    8.029745307642957e+005
+CCoef =
+   0.998220920217746
+aCCoef =
+   0.999143476701983
+X3n =
+   0.961047792300043
+LepZlatGSE2 =
+ -63.968571031962419
+LepZlongGSE2 =
+    1.387899538442986e+002
+Lambda1_zu_Lambda2 =
+   3.579401159393274
+Lambda2_zu_Lambda3 =
+   9.134942195250744
+LepZlatGSE =
+ -63.968571031962419
+LepZlongGSE =
+    1.387899538442986e+002
+walen_slope =
+  -0.031347217376910
+pw_rie_rip =
+  -0.031347217376910   0.119045021105255   0.853503715684926
+ans =
+S:\public_GS_code
+-------------------------MAIN RESULTS ------------------
+VHT =
+  1.0e+002 *
+  -6.040180875060414
+   0.104069033051383
+  -0.075701650349742
+norm_VHT =
+    6.041551630744499e+002
+CCoef =
+   0.998220920217746
+d_in_AU =
+   0.104677151265511
+axis from MVUB in GSE
+ans =
+  -0.330157204094415
+   0.289133055356755
+  -0.898553446871485
+Orientation angles: Longitude Phi and Latitude Theta:
+phi_round =
+   139
+theta_round =
+   -64
+Eigenvector condition satisfied! L2/L3 greater 2
+------------------------- END prefr.m ------------------
+NL =
+     0
+adjp =
+     1
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   191
+    20
+    -1
+ctrl2 =
+    0.1000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   535
+   648
+     1
+pe =
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+residue0 =
+  6.1529e-010
+ave_beta =
+    0.0325
+ave_Vt =
+  2.4079e+004
+ave_VA =
+  3.0934e+005
+Mta =
+    0.0778
+Mta2 =
+    0.0915
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0983
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0551
+Y0 =
+    0.0417
+Bzmax =
+  935.2003
+Jz00 =
+  6.3612e-011
+pos =
+    0.1300    0.1100    0.7750    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  176.7771
+Ab =
+    0.9616
+axflux =
+    0.0257
+polflux =
+    2.6197
+complete axial current in MA:
+ans =
+  273.6695
+zs =
+   -0.8585    0.2243   -0.4613
+ys =
+   -0.0113   -0.9074   -0.4202
+xs =
+    0.5128    0.3555   -0.7815
+dht =
+ -605.3404    9.9806   -5.2799
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   191
+    20
+    -1
+ctrl2 =
+    0.2000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   535
+   648
+     1
+pe =
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+residue0 =
+  6.1529e-010
+ave_beta =
+    0.0325
+ave_Vt =
+  2.4079e+004
+ave_VA =
+  3.0934e+005
+Mta =
+    0.0778
+Mta2 =
+    0.0915
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0983
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0551
+Y0 =
+    0.0425
+Bzmax =
+  917.6419
+Jz00 =
+  6.2065e-011
+pos =
+    0.1300    0.1100    0.7750    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  175.8631
+Ab =
+    0.9616
+axflux =
+    0.0273
+polflux =
+    2.6060
+complete axial current in MA:
+ans =
+  273.4712
+zs =
+   -0.8585    0.2243   -0.4613
+ys =
+   -0.0113   -0.9074   -0.4202
+xs =
+    0.5128    0.3555   -0.7815
+dht =
+ -605.3404    9.9806   -5.2799
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+    -1
+ctrl2 =
+    0.2000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   535
+   648
+     1
+pe =
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+residue0 =
+  6.1529e-010
+ave_beta =
+    0.0325
+ave_Vt =
+  2.4079e+004
+ave_VA =
+  3.0934e+005
+Mta =
+    0.0778
+Mta2 =
+    0.0915
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0983
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0275
+Y0 =
+    0.0122
+Bzmax =
+  671.7124
+Jz00 =
+  4.1947e-011
+pos =
+    0.1589    0.1100    0.7461    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  160.8186
+Ab =
+    0.9616
+axflux =
+    0.0182
+polflux =
+    2.3819
+complete axial current in MA:
+ans =
+  180.7119
+zs =
+   -0.8585    0.2243   -0.4613
+ys =
+   -0.0113   -0.9074   -0.4202
+xs =
+    0.5128    0.3555   -0.7815
+dht =
+ -605.3404    9.9806   -5.2799
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+    -1
+ctrl2 =
+    0.2000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   535
+   640
+     1
+pe =
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+residue0 =
+  6.1391e-010
+ave_beta =
+    0.0299
+ave_Vt =
+  2.4367e+004
+ave_VA =
+  3.2197e+005
+Mta =
+    0.0757
+Mta2 =
+    0.0876
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.1017
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0256
+Y0 =
+    0.0128
+Bzmax =
+  683.3308
+Jz00 =
+  4.1463e-011
+pos =
+    0.1589    0.1100    0.7461    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  161.6455
+Ab =
+    0.9616
+axflux =
+    0.0134
+polflux =
+    2.3942
+complete axial current in MA:
+ans =
+  124.2233
+zs =
+   -0.8585    0.2243   -0.4613
+ys =
+   -0.0113   -0.9074   -0.4202
+xs =
+    0.5128    0.3555   -0.7815
+dht =
+ -605.3404    9.9806   -5.2799
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     1
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   535
+   640
+     1
+pe =
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+residue0 =
+  6.1391e-010
+ave_beta =
+    0.0299
+ave_Vt =
+  2.4367e+004
+ave_VA =
+  3.2197e+005
+Mta =
+    0.0757
+Mta2 =
+    0.0876
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.1017
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0256
+Y0 =
+    0.0128
+Bzmax =
+  683.4165
+Jz00 =
+  4.1469e-011
+pos =
+    0.1589    0.1100    0.7461    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  161.6516
+Ab =
+    0.9616
+axflux =
+    1.1288
+polflux =
+    2.3943
+complete axial current in MA:
+ans =
+  564.5211
+zs =
+   -0.8585    0.2243   -0.4613
+ys =
+   -0.0113   -0.9074   -0.4202
+xs =
+    0.5128    0.3555   -0.7815
+dht =
+ -605.3404    9.9806   -5.2799
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     0
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   535
+   640
+     1
+pe =
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+residue0 =
+  6.1391e-010
+ave_beta =
+    0.0299
+ave_Vt =
+  2.4367e+004
+ave_VA =
+  3.2197e+005
+Mta =
+    0.0757
+Mta2 =
+    0.0876
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.1017
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0256
+Y0 =
+    0.0128
+adjp =
+     1
+ans =
+Select Ab...
+ans =
+Ab.dat saved!
+Bzmax =
+  683.4165
+Jz00 =
+  4.1469e-011
+pos =
+    0.1589    0.1100    0.7461    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  161.6516
+Ab =
+   74.2075
+axflux =
+    1.1416
+polflux =
+    1.3029
+complete axial current in MA:
+ans =
+  564.7531
+zs =
+   -0.8585    0.2243   -0.4613
+ys =
+   -0.0113   -0.9074   -0.4202
+xs =
+    0.5128    0.3555   -0.7815
+dht =
+ -605.3404    9.9806   -5.2799
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     0
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   535
+   640
+     0
+pe =
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+residue0 =
+  5.6951e-010
+ave_beta =
+     0
+ave_Vt =
+  2.4367e+004
+ave_VA =
+  3.2197e+005
+Mta =
+    0.0757
+Mta2 =
+    0.0876
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0990
+Warning: Imaginary parts of complex X and/or Y arguments ignored
+> In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',196,1)">hu34n at 196</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+Continue to reconstruct the map... Please wait...
+X0 =
+     0
+Y0 =
+   -0.0183
+adjp =
+     0
+ans =
+Select Ab...
+ans =
+Ab.dat saved!
+Bzmax =
+  6.8250e-015 +1.1146e+002i
+Jz00 =
+  1.3400e-010 -1.6410e-026i
+pos =
+    0.1589    0.1100    0.7461    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+ -1.3988e+002 +4.2720e-015i
+Ab =
+   76.6160
+axflux =
+    0.1458
+polflux =
+    3.2258
+complete axial current in MA:
+ans =
+  657.5923
+Warning: Imaginary parts of complex X and/or Y arguments ignored
+> In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',1117,1)">hu34n at 1117</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+Warning: Colon operands must be real scalars.
+> In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',1118,1)">hu34n at 1118</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+Warning: Imaginary parts of complex X and/or Y arguments ignored
+> In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',1122,1)">hu34n at 1122</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+zs =
+   -0.8585    0.2243   -0.4613
+ys =
+   -0.0113   -0.9074   -0.4202
+xs =
+    0.5128    0.3555   -0.7815
+dht =
+ -605.3404    9.9806   -5.2799
+Warning: Rank deficient, rank = 0,  tol =   0.0000e+000.
+> In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',1275,1)">hu34n at 1275</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.146;3.226 &  658
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     0
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   535
+   640
+     1
+pe =
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+residue0 =
+  6.1391e-010
+ave_beta =
+    0.0299
+ave_Vt =
+  2.4367e+004
+ave_VA =
+  3.2197e+005
+Mta =
+    0.0757
+Mta2 =
+    0.0876
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.1017
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0256
+Y0 =
+    0.0128
+adjp =
+     1
+ans =
+Select Ab...
+ans =
+Ab.dat saved!
+Bzmax =
+   65.6576
+Jz00 =
+  4.1469e-011
+pos =
+    0.1589    0.1100    0.7461    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  161.6516
+Ab =
+   79.5061
+axflux =
+    0.1510
+polflux =
+    1.2240
+complete axial current in MA:
+ans =
+  564.7531
+zs =
+   -0.8585    0.2243   -0.4613
+ys =
+   -0.0113   -0.9074   -0.4202
+xs =
+    0.5128    0.3555   -0.7815
+dht =
+ -605.3404    9.9806   -5.2799
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.146;3.226 &  658
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 65.657577 &    (-27,165) & R & 0.051 & 0.013 &  0.151;1.224 &  565
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     1
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   538
+   642
+     1
+pe =
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+residue0 =
+  5.9870e-010
+ave_beta =
+    0.0313
+ave_Vt =
+  2.3599e+004
+ave_VA =
+  3.1668e+005
+Mta =
+    0.0745
+Mta2 =
+    0.0871
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0971
+Continue to reconstruct the map... Please wait...
+X0 =
+     0
+Y0 =
+   -0.0181
+Bzmax =
+   0.0000 +69.2881i
+Jz00 =
+  1.7563e-015
+pos =
+    0.1589    0.1100    0.7461    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+ -103.0196
+Ab =
+   79.5061
+axflux =
+    0.1059
+polflux =
+    2.7196
+complete axial current in MA:
+ans =
+  502.8618
+zs =
+   -0.8585    0.2243   -0.4613
+ys =
+   -0.0113   -0.9074   -0.4202
+xs =
+    0.5128    0.3555   -0.7815
+dht =
+ -605.3404    9.9806   -5.2799
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.146;3.226 &  658
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 65.657577 &    (-27,165) & R & 0.051 & 0.013 &  0.151;1.224 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.106;2.720 &  503
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     1
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   538
+   642
+     0
+pe =
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+residue0 =
+  5.5799e-010
+ave_beta =
+     0
+ave_Vt =
+  2.3599e+004
+ave_VA =
+  3.1668e+005
+Mta =
+    0.0745
+Mta2 =
+    0.0871
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0908
+Warning: Imaginary parts of complex X and/or Y arguments ignored
+> In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',196,1)">hu34n at 196</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0362
+Y0 =
+    0.0170
+Bzmax =
+  1.2467e+106 -5.3673e+094i
+Jz00 =
+  2.9812e-012 +1.7286e-025i
+??? Error using ==> contourc
+Contour levels must be finite
+
+Error in ==> <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\specgraph\@specgraph\@contourgroup\schema.m',260,0)">specgraph.contourgroup.schema>LdoDirtyAction at 260</a>
+        refresh(h);
+
+Warning: Error occurred while evaluating listener callback.
+> In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\specgraph\contour.m',78,1)">contour at 78</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',783,1)">hu34n at 783</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+pos =
+    0.1589    0.1100    0.7461    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  1.5675e+004 -2.7835e-010i
+Ab =
+   79.5061
+axflux =
+   NaN
+polflux =
+  232.3754
+complete axial current in MA:
+ans =
+   NaN
+Warning: Imaginary parts of complex X and/or Y arguments ignored
+> In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',1117,1)">hu34n at 1117</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+Warning: Colon operands must be real scalars.
+> In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',1118,1)">hu34n at 1118</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+Warning: Imaginary parts of complex X and/or Y arguments ignored
+> In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',1122,1)">hu34n at 1122</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+zs =
+   -0.8585    0.2243   -0.4613
+ys =
+   -0.0113   -0.9074   -0.4202
+xs =
+    0.5128    0.3555   -0.7815
+dht =
+ -605.3404    9.9806   -5.2799
+Warning: Rank deficient, rank = 0,  tol =   0.0000e+000.
+> In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',1275,1)">hu34n at 1275</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.146;3.226 &  658
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 65.657577 &    (-27,165) & R & 0.051 & 0.013 &  0.151;1.224 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.106;2.720 &  503
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 12467182663889476000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000 &    (-27,165) & R & 0.051 & 0.017 &  NaN;232.375 &  NaN
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     1
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   538
+   642
+     1
+pe =
+     0
+ZlatGSE =
+  -45.9562
+ZlongGSE =
+  133.4258
+residue0 =
+  7.3732e-010
+ave_beta =
+    0.0313
+ave_Vt =
+  2.7347e+004
+ave_VA =
+  3.1668e+005
+Mta =
+    0.0864
+Mta2 =
+    0.1061
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0597
+Continue to reconstruct the map... Please wait...
+X0 =
+     0
+Y0 =
+   -0.0315
+Bzmax =
+  1.1892e-012 +1.9421e+004i
+Jz00 =
+  1.6165e-013
+pos =
+    0.1429    0.1100    0.7621    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+ -171.5952
+Ab =
+   79.5061
+axflux =
+    0.1505
+polflux =
+    3.7414
+complete axial current in MA:
+ans =
+  670.0001
+zs =
+   -0.4779    0.5049   -0.7188
+ys =
+   -0.0086   -0.8209   -0.5710
+xs =
+    0.8784    0.2667   -0.3966
+dht =
+ -605.3404    9.9806   -5.2799
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.146;3.226 &  658
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 65.657577 &    (-27,165) & R & 0.051 & 0.013 &  0.151;1.224 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.106;2.720 &  503
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 12467182663889476000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000 &    (-27,165) & R & 0.051 & 0.017 &  NaN;232.375 &  NaN
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     1
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   538
+   642
+     1
+pe =
+     0
+ZlatGSE =
+  -45.9562
+ZlongGSE =
+  133.4258
+residue0 =
+  7.3732e-010
+ave_beta =
+    0.0313
+ave_Vt =
+  2.7347e+004
+ave_VA =
+  3.1668e+005
+Mta =
+    0.0864
+Mta2 =
+    0.1061
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0597
+Continue to reconstruct the map... Please wait...
+X0 =
+     0
+Y0 =
+   -0.0315
+Bzmax =
+  1.1892e-012 +1.9421e+004i
+Jz00 =
+  1.6165e-013
+pos =
+    0.1429    0.1100    0.7621    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+ -171.5952
+Ab =
+   79.5061
+axflux =
+    0.1505
+polflux =
+    3.7414
+complete axial current in MA:
+ans =
+  670.0001
+zs =
+   -0.4779    0.5049   -0.7188
+ys =
+   -0.0086   -0.8209   -0.5710
+xs =
+    0.8784    0.2667   -0.3966
+dht =
+ -605.3404    9.9806   -5.2799
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.146;3.226 &  658
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 65.657577 &    (-27,165) & R & 0.051 & 0.013 &  0.151;1.224 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.106;2.720 &  503
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 12467182663889476000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000 &    (-27,165) & R & 0.051 & 0.017 &  NaN;232.375 &  NaN
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     1
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   538
+   642
+     0
+pe =
+     0
+ZlatGSE =
+  -45.9562
+ZlongGSE =
+  133.4258
+residue0 =
+  7.8119e-010
+ave_beta =
+     0
+ave_Vt =
+  2.7347e+004
+ave_VA =
+  3.1668e+005
+Mta =
+    0.0864
+Mta2 =
+    0.1061
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0569
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0378
+Y0 =
+    0.0101
+Bzmax =
+   56.9357
+Jz00 =
+  1.9965e-011
+pos =
+    0.1429    0.1100    0.7621    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  147.7989
+Ab =
+   79.5061
+axflux =
+    0.2376
+polflux =
+    1.0176
+complete axial current in MA:
+ans =
+  676.9739
+zs =
+   -0.4779    0.5049   -0.7188
+ys =
+   -0.0086   -0.8209   -0.5710
+xs =
+    0.8784    0.2667   -0.3966
+dht =
+ -605.3404    9.9806   -5.2799
+Warning: Rank deficient, rank = 0,  tol =   0.0000e+000.
+> In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',1275,1)">hu34n at 1275</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.146;3.226 &  658
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 65.657577 &    (-27,165) & R & 0.051 & 0.013 &  0.151;1.224 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.106;2.720 &  503
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 12467182663889476000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000 &    (-27,165) & R & 0.051 & 0.017 &  NaN;232.375 &  NaN
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 56.935748 &    (-46,133) & R & 0.088 & 0.010 &  0.238;1.018 &  677
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     0
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   538
+   642
+     0
+pe =
+     0
+ZlatGSE =
+  -45.9562
+ZlongGSE =
+  133.4258
+residue0 =
+  7.8119e-010
+ave_beta =
+     0
+ave_Vt =
+  2.7347e+004
+ave_VA =
+  3.1668e+005
+Mta =
+    0.0864
+Mta2 =
+    0.1061
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0569
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0378
+Y0 =
+    0.0101
+adjp =
+     0
+ans =
+Select Ab...
+ans =
+Ab.dat saved!
+Bzmax =
+   56.9357
+Jz00 =
+  1.9965e-011
+pos =
+    0.1429    0.1100    0.7621    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  147.7989
+Ab =
+   19.0698
+axflux =
+    0.4705
+polflux =
+    1.9181
+complete axial current in MA:
+ans =
+  1.0297e+003
+zs =
+   -0.4779    0.5049   -0.7188
+ys =
+   -0.0086   -0.8209   -0.5710
+xs =
+    0.8784    0.2667   -0.3966
+dht =
+ -605.3404    9.9806   -5.2799
+Warning: Rank deficient, rank = 0,  tol =   0.0000e+000.
+> In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',1275,1)">hu34n at 1275</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.146;3.226 &  658
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 65.657577 &    (-27,165) & R & 0.051 & 0.013 &  0.151;1.224 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.106;2.720 &  503
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 12467182663889476000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000 &    (-27,165) & R & 0.051 & 0.017 &  NaN;232.375 &  NaN
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 56.935748 &    (-46,133) & R & 0.088 & 0.010 &  0.238;1.018 &  677
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 56.935748 &    (-46,133) & R & 0.088 & 0.010 &  0.470;1.918 &  1030
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     1
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   538
+   642
+     1
+pe =
+     0
+ZlatGSE =
+  -45.9562
+ZlongGSE =
+  133.4258
+residue0 =
+  7.3732e-010
+ave_beta =
+    0.0313
+ave_Vt =
+  2.7347e+004
+ave_VA =
+  3.1668e+005
+Mta =
+    0.0864
+Mta2 =
+    0.1061
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0597
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0378
+Y0 =
+    0.0107
+Bzmax =
+   57.5960
+Jz00 =
+  1.8827e-011
+pos =
+    0.1429    0.1100    0.7621    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  149.2956
+Ab =
+   19.0698
+axflux =
+    0.3935
+polflux =
+    1.9404
+complete axial current in MA:
+ans =
+  948.4393
+zs =
+   -0.4779    0.5049   -0.7188
+ys =
+   -0.0086   -0.8209   -0.5710
+xs =
+    0.8784    0.2667   -0.3966
+dht =
+ -605.3404    9.9806   -5.2799
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.146;3.226 &  658
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 65.657577 &    (-27,165) & R & 0.051 & 0.013 &  0.151;1.224 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.106;2.720 &  503
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 12467182663889476000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000 &    (-27,165) & R & 0.051 & 0.017 &  NaN;232.375 &  NaN
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 56.935748 &    (-46,133) & R & 0.088 & 0.010 &  0.238;1.018 &  677
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 56.935748 &    (-46,133) & R & 0.088 & 0.010 &  0.470;1.918 &  1030
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 57.595958 &    (-46,133) & R & 0.088 & 0.011 &  0.393;1.940 &  948
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     1
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   538
+   642
+     0
+pe =
+     0
+ZlatGSE =
+  -46.1489
+ZlongGSE =
+  133.2261
+residue0 =
+  7.8082e-010
+ave_beta =
+     0
+ave_Vt =
+  2.7227e+004
+ave_VA =
+  3.1668e+005
+Mta =
+    0.0860
+Mta2 =
+    0.1051
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0567
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0379
+Y0 =
+    0.0095
+Bzmax =
+   56.8828
+Jz00 =
+  1.9923e-011
+pos =
+    0.1429    0.1100    0.7621    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  147.7130
+Ab =
+   19.0698
+axflux =
+    0.3843
+polflux =
+    1.9168
+complete axial current in MA:
+ans =
+  944.5177
+zs =
+   -0.4745    0.5048   -0.7211
+ys =
+   -0.0072   -0.8214   -0.5703
+xs =
+    0.8802    0.2654   -0.3934
+dht =
+ -605.6605   10.6486   -7.7012
+Warning: Rank deficient, rank = 0,  tol =   0.0000e+000.
+> In <a href="matlab: opentoline('S:\public_GS_code\hu34n.m',1275,1)">hu34n at 1275</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\hu12n.m',381,1)">hu12n at 381</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',240,1)">mygui>pushbutton6_Callback at 240</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton6_Callback',hObject,eventdata,guidata(hObject))
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.146;3.226 &  658
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 65.657577 &    (-27,165) & R & 0.051 & 0.013 &  0.151;1.224 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.106;2.720 &  503
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 12467182663889476000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000 &    (-27,165) & R & 0.051 & 0.017 &  NaN;232.375 &  NaN
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 56.935748 &    (-46,133) & R & 0.088 & 0.010 &  0.238;1.018 &  677
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 56.935748 &    (-46,133) & R & 0.088 & 0.010 &  0.470;1.918 &  1030
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 57.595958 &    (-46,133) & R & 0.088 & 0.011 &  0.393;1.940 &  948
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 606 & 56.882811 &    (-46,133) & R & 0.088 & 0.009 &  0.384;1.917 &  945
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     1
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   538
+   642
+     1
+pe =
+     0
+ZlatGSE =
+  -46.1489
+ZlongGSE =
+  133.2261
+residue0 =
+  7.3608e-010
+ave_beta =
+    0.0313
+ave_Vt =
+  2.7227e+004
+ave_VA =
+  3.1668e+005
+Mta =
+    0.0860
+Mta2 =
+    0.1051
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0593
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0379
+Y0 =
+    0.0107
+Bzmax =
+   57.5277
+Jz00 =
+  1.8795e-011
+pos =
+    0.1429    0.1100    0.7621    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  149.1768
+Ab =
+   19.0698
+axflux =
+    0.3941
+polflux =
+    1.9386
+complete axial current in MA:
+ans =
+  948.8329
+zs =
+   -0.4745    0.5048   -0.7211
+ys =
+   -0.0072   -0.8214   -0.5703
+xs =
+    0.8802    0.2654   -0.3934
+dht =
+ -605.6605   10.6486   -7.7012
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.146;3.226 &  658
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 65.657577 &    (-27,165) & R & 0.051 & 0.013 &  0.151;1.224 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.106;2.720 &  503
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 12467182663889476000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000 &    (-27,165) & R & 0.051 & 0.017 &  NaN;232.375 &  NaN
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 56.935748 &    (-46,133) & R & 0.088 & 0.010 &  0.238;1.018 &  677
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 56.935748 &    (-46,133) & R & 0.088 & 0.010 &  0.470;1.918 &  1030
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 57.595958 &    (-46,133) & R & 0.088 & 0.011 &  0.393;1.940 &  948
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 606 & 56.882811 &    (-46,133) & R & 0.088 & 0.009 &  0.384;1.917 &  945
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 606 & 57.527690 &    (-46,133) & R & 0.088 & 0.011 &  0.394;1.939 &  949
+
+--------------- END hu34n.m ------------------
+ALLCASE.par
+dirstr =
+ACE_323_325_03
+ctrl =
+     1
+     2
+    15
+   131
+    15
+     1
+ctrl2 =
+    0.3000
+    0.1000
+CASE1.par
+str =
+DATA\ACEall323_03.mat
+i12 =
+   538
+   642
+     1
+pe =
+     0
+ZlatGSE =
+  -46.1489
+ZlongGSE =
+  133.2261
+residue0 =
+  7.3608e-010
+ave_beta =
+    0.0313
+ave_Vt =
+  2.7227e+004
+ave_VA =
+  3.1668e+005
+Mta =
+    0.0860
+Mta2 =
+    0.1051
+ans =
+S:\public_GS_code
+--------------- ENDE hu12n.m ------------------
+--------------- START hu34n.m ------------------
+hu3.m
+residue =
+    0.0593
+Continue to reconstruct the map... Please wait...
+X0 =
+    0.0379
+Y0 =
+    0.0107
+Bzmax =
+   57.5277
+Jz00 =
+  1.8795e-011
+pos =
+    0.1429    0.1100    0.7621    0.8150
+poloidal flux in 10^21 Mx:
+L_in_AU =
+     1
+Am =
+  149.1768
+Ab =
+   19.0698
+axflux =
+    0.3941
+polflux =
+    1.9386
+complete axial current in MA:
+ans =
+  948.8329
+zs =
+   -0.4745    0.5048   -0.7211
+ys =
+   -0.0072   -0.8214   -0.5703
+xs =
+    0.8802    0.2654   -0.3934
+dht =
+ -605.6605   10.6486   -7.7012
+
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.146;3.226 &  658
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 65.657577 &    (-27,165) & R & 0.051 & 0.013 &  0.151;1.224 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.106;2.720 &  503
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 12467182663889476000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000 &    (-27,165) & R & 0.051 & 0.017 &  NaN;232.375 &  NaN
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 56.935748 &    (-46,133) & R & 0.088 & 0.010 &  0.238;1.018 &  677
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 56.935748 &    (-46,133) & R & 0.088 & 0.010 &  0.470;1.918 &  1030
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 57.595958 &    (-46,133) & R & 0.088 & 0.011 &  0.393;1.940 &  948
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 606 & 56.882811 &    (-46,133) & R & 0.088 & 0.009 &  0.384;1.917 &  945
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 606 & 57.527690 &    (-46,133) & R & 0.088 & 0.011 &  0.394;1.939 &  949
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 606 & 57.527690 &    (-46,133) & R & 0.088 & 0.011 &  0.394;1.939 &  949
+
+--------------- END hu34n.m ------------------

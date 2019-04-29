@@ -1,0 +1,1547 @@
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.529266328476703
+Zzp =
+  -0.811550417523642  -0.509835712812402   0.285400535665707
+zs_1_red_zsg_2_blue =
+     1     1    59
+zs_1_red_zsg_2_blue =
+     2     1    59
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -16.5828
+ZlongGSE =
+   32.1380
+Zdelta_Hu_GSE =
+   35.7523
+Zlambda_Hu_GSE =
+  330.7604
+LepZlatGSE =
+  -58.4455
+LepZlongGSE =
+  111.8496
+LepZdelta_Hu_GSE =
+  101.2308
+LepZlambda_Hu_GSE =
+  299.6829
+Vht_t =
+  3.5472e+005
+ave_beta =
+    0.0316
+ave_Vt =
+  2.6701e+004
+ave_VA =
+  3.1120e+005
+mean_Vt_to_Va =
+    0.0858
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.5840   -0.7222    0.3707
+ys =
+   -0.0171   -0.4675   -0.8838
+zs =
+    0.8116    0.5098   -0.2854
+ZlatGSE =
+  -16.5828
+ZlongGSE =
+   32.1380
+Rfp =
+    0.0752
+Rfb =
+    0.0814
+Rfbz =
+    0.0779
+ratio of V_transversal to local Alfven speed:
+    0.0858
+ratio of remaining V to B: X Y Z
+rvb =
+    0.0504    0.4451    1.4331
+rvbdev =
+    1.9133    3.2560   10.7064
+dht =
+   -0.9998    0.0048    0.0168
+--------------- Ende hu12n_opt.m: -------------------
+Invarianz-Achse in delta-lambda (GSE) + error
+   35.7523  330.7604
+    1.0612    1.7060
+Invarianz-Achse in theta-phi (GSE) + error
+  -16.5828   32.1380
+    1.3850    1.0447
+Bz>0? Mean [nT]:
+   20.5746
+Max Bz [nT]
+   41.7834
+Invarianz Richtung in GSE:
+Zzp =
+    0.8116    0.5098   -0.2854
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.5293    0.5293
+uncertainty =
+    0.2751    0.2751
+Number of original data points:
+rn =
+   126
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.804939606483705
+Zzp =
+   0.096276592379916  -0.663010963545295   0.742392941762279
+zs_1_red_zsg_2_blue =
+     1     1    78
+zs_1_red_zsg_2_blue =
+     2     1    78
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -47.9357
+ZlongGSE =
+   98.2622
+Zdelta_Hu_GSE =
+   95.5248
+Zlambda_Hu_GSE =
+  311.7672
+LepZlatGSE =
+  -63.9686
+LepZlongGSE =
+  138.7899
+LepZdelta_Hu_GSE =
+  109.2783
+LepZlambda_Hu_GSE =
+  287.8369
+Vht_t =
+  6.0001e+005
+ave_beta =
+    0.0334
+ave_Vt =
+  2.8175e+004
+ave_VA =
+  3.0663e+005
+mean_Vt_to_Va =
+    0.0919
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.9953    0.0607   -0.0748
+ys =
+   -0.0045   -0.7461   -0.6658
+zs =
+   -0.0963    0.6630   -0.7424
+ZlatGSE =
+  -47.9357
+ZlongGSE =
+   98.2622
+Rfp =
+    0.0684
+Rfb =
+    0.0736
+Rfbz =
+    0.0568
+ratio of V_transversal to local Alfven speed:
+    0.0919
+ratio of remaining V to B: X Y Z
+rvb =
+  -23.2139    0.3660   -0.9945
+rvbdev =
+  217.3605    7.1225    5.6222
+dht =
+   -0.9998    0.0172   -0.0125
+--------------- Ende hu12n_opt.m: -------------------
+Invarianz-Achse in delta-lambda (GSE) + error
+   95.5248  311.7672
+    5.6796    3.0893
+Invarianz-Achse in theta-phi (GSE) + error
+  -47.9357   98.2622
+    4.9718    7.4967
+Bz>0? Mean [nT]:
+   37.9005
+Max Bz [nT]
+   55.6736
+Invarianz Richtung in GSE:
+Zzp =
+   -0.0963    0.6630   -0.7424
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.8049    0.8049
+uncertainty =
+    0.3822    0.3822
+Number of original data points:
+rn =
+   109
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.804939606483705
+Zzp =
+   0.096276592379916  -0.663010963545295   0.742392941762279
+zs_1_red_zsg_2_blue =
+     1     1    78
+zs_1_red_zsg_2_blue =
+     2     1    78
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -47.9357
+ZlongGSE =
+   98.2622
+Zdelta_Hu_GSE =
+   95.5248
+Zlambda_Hu_GSE =
+  311.7672
+LepZlatGSE =
+  -63.9686
+LepZlongGSE =
+  138.7899
+LepZdelta_Hu_GSE =
+  109.2783
+LepZlambda_Hu_GSE =
+  287.8369
+Vht_t =
+  6.0001e+005
+ave_beta =
+    0.0334
+ave_Vt =
+  2.8175e+004
+ave_VA =
+  3.0663e+005
+mean_Vt_to_Va =
+    0.0919
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.9953    0.0607   -0.0748
+ys =
+   -0.0045   -0.7461   -0.6658
+zs =
+   -0.0963    0.6630   -0.7424
+ZlatGSE =
+  -47.9357
+ZlongGSE =
+   98.2622
+Rfp =
+    0.0684
+Rfb =
+    0.0736
+Rfbz =
+    0.0568
+ratio of V_transversal to local Alfven speed:
+    0.0919
+ratio of remaining V to B: X Y Z
+rvb =
+  -23.2139    0.3660   -0.9945
+rvbdev =
+  217.3605    7.1225    5.6222
+dht =
+   -0.9998    0.0172   -0.0125
+--------------- Ende hu12n_opt.m: -------------------
+Invarianz-Achse in delta-lambda (GSE) + error
+   95.5248  311.7672
+    5.6796    3.0893
+Invarianz-Achse in theta-phi (GSE) + error
+  -47.9357   98.2622
+    4.9718    7.4967
+Bz>0? Mean [nT]:
+   37.9005
+Max Bz [nT]
+   55.6736
+Invarianz Richtung in GSE:
+Zzp =
+   -0.0963    0.6630   -0.7424
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.8049    0.8049
+uncertainty =
+    0.3822    0.3822
+Number of original data points:
+rn =
+   109
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.770260482591264
+Zzp =
+   0.858455159202131  -0.224276523997989   0.461253488249817
+zs_1_red_zsg_2_blue =
+     1    17   101
+zs_1_red_zsg_2_blue =
+     2    17   101
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Zdelta_Hu_GSE =
+  149.1436
+Zlambda_Hu_GSE =
+  295.9305
+LepZlatGSE =
+  -62.7222
+LepZlongGSE =
+  131.2271
+LepZdelta_Hu_GSE =
+  107.5804
+LepZlambda_Hu_GSE =
+  291.1973
+Vht_t =
+  3.0272e+005
+ave_beta =
+    0.0325
+ave_Vt =
+  2.4079e+004
+ave_VA =
+  3.0934e+005
+mean_Vt_to_Va =
+    0.0778
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.5128    0.3555   -0.7815
+ys =
+   -0.0113   -0.9074   -0.4202
+zs =
+   -0.8585    0.2243   -0.4613
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Rfp =
+    0.0886
+Rfb =
+    0.0874
+Rfbz =
+    0.0875
+ratio of V_transversal to local Alfven speed:
+    0.0778
+ratio of remaining V to B: X Y Z
+rvb =
+   -0.0107   -0.3956    0.1960
+rvbdev =
+    0.8651    2.3595    6.3543
+dht =
+   -0.9998    0.0165   -0.0087
+--------------- Ende hu12n_opt.m: -------------------
+Warning: Imaginary part of complex variable 'dZzp' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1207,1)">optcloud at 1207</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Warning: Imaginary part of complex variable 'd_delta_phi' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1208,1)">optcloud at 1208</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Invarianz-Achse in delta-lambda (GSE) + error
+  149.1436  295.9305
+  13.5043                  0 +44.8531i
+Invarianz-Achse in theta-phi (GSE) + error
+  -27.4680  165.3584
+        0 +26.1262i        0 + 3.1166i
+Bz>0? Mean [nT]:
+   19.3200
+Max Bz [nT]
+   38.4286
+Invarianz Richtung in GSE:
+Zzp =
+   -0.8585    0.2243   -0.4613
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.7703    0.7703
+uncertainty =
+    0.3262    0.3262
+Number of original data points:
+rn =
+   114
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.770260482591264
+Zzp =
+   0.858455159202131  -0.224276523997989   0.461253488249817
+zs_1_red_zsg_2_blue =
+     1    17   101
+zs_1_red_zsg_2_blue =
+     2    17   101
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Zdelta_Hu_GSE =
+  149.1436
+Zlambda_Hu_GSE =
+  295.9305
+LepZlatGSE =
+  -62.7222
+LepZlongGSE =
+  131.2271
+LepZdelta_Hu_GSE =
+  107.5804
+LepZlambda_Hu_GSE =
+  291.1973
+Vht_t =
+  3.0272e+005
+ave_beta =
+    0.0325
+ave_Vt =
+  2.4079e+004
+ave_VA =
+  3.0934e+005
+mean_Vt_to_Va =
+    0.0778
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.5128    0.3555   -0.7815
+ys =
+   -0.0113   -0.9074   -0.4202
+zs =
+   -0.8585    0.2243   -0.4613
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Rfp =
+    0.0886
+Rfb =
+    0.0874
+Rfbz =
+    0.0875
+ratio of V_transversal to local Alfven speed:
+    0.0778
+ratio of remaining V to B: X Y Z
+rvb =
+   -0.0107   -0.3956    0.1960
+rvbdev =
+    0.8651    2.3595    6.3543
+dht =
+   -0.9998    0.0165   -0.0087
+--------------- Ende hu12n_opt.m: -------------------
+Warning: Imaginary part of complex variable 'dZzp' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1207,1)">optcloud at 1207</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Warning: Imaginary part of complex variable 'd_delta_phi' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1208,1)">optcloud at 1208</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Invarianz-Achse in delta-lambda (GSE) + error
+  149.1436  295.9305
+  13.5043                  0 +44.8531i
+Invarianz-Achse in theta-phi (GSE) + error
+  -27.4680  165.3584
+        0 +26.1262i        0 + 3.1166i
+Bz>0? Mean [nT]:
+   19.3200
+Max Bz [nT]
+   38.4286
+Invarianz Richtung in GSE:
+Zzp =
+   -0.8585    0.2243   -0.4613
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.7703    0.7703
+uncertainty =
+    0.3262    0.3262
+Number of original data points:
+rn =
+   114
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.770260482591264
+Zzp =
+   0.858455159202131  -0.224276523997989   0.461253488249817
+zs_1_red_zsg_2_blue =
+     1    17   101
+zs_1_red_zsg_2_blue =
+     2    17   101
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Zdelta_Hu_GSE =
+  149.1436
+Zlambda_Hu_GSE =
+  295.9305
+LepZlatGSE =
+  -62.7222
+LepZlongGSE =
+  131.2271
+LepZdelta_Hu_GSE =
+  107.5804
+LepZlambda_Hu_GSE =
+  291.1973
+Vht_t =
+  3.0272e+005
+ave_beta =
+    0.0325
+ave_Vt =
+  2.4079e+004
+ave_VA =
+  3.0934e+005
+mean_Vt_to_Va =
+    0.0778
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.5128    0.3555   -0.7815
+ys =
+   -0.0113   -0.9074   -0.4202
+zs =
+   -0.8585    0.2243   -0.4613
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Rfp =
+    0.0886
+Rfb =
+    0.0874
+Rfbz =
+    0.0875
+ratio of V_transversal to local Alfven speed:
+    0.0778
+ratio of remaining V to B: X Y Z
+rvb =
+   -0.0107   -0.3956    0.1960
+rvbdev =
+    0.8651    2.3595    6.3543
+dht =
+   -0.9998    0.0165   -0.0087
+--------------- Ende hu12n_opt.m: -------------------
+Warning: Imaginary part of complex variable 'dZzp' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1207,1)">optcloud at 1207</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Warning: Imaginary part of complex variable 'd_delta_phi' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1208,1)">optcloud at 1208</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Invarianz-Achse in delta-lambda (GSE) + error
+  149.1436  295.9305
+  13.5043                  0 +44.8531i
+Invarianz-Achse in theta-phi (GSE) + error
+  -27.4680  165.3584
+        0 +26.1262i        0 + 3.1166i
+Bz>0? Mean [nT]:
+   19.3200
+Max Bz [nT]
+   38.4286
+Invarianz Richtung in GSE:
+Zzp =
+   -0.8585    0.2243   -0.4613
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.7703    0.7703
+uncertainty =
+    0.3262    0.3262
+Number of original data points:
+rn =
+   114
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.770260482591264
+Zzp =
+   0.858455159202131  -0.224276523997989   0.461253488249817
+zs_1_red_zsg_2_blue =
+     1    17   101
+zs_1_red_zsg_2_blue =
+     2    17   101
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Zdelta_Hu_GSE =
+  149.1436
+Zlambda_Hu_GSE =
+  295.9305
+LepZlatGSE =
+  -62.7222
+LepZlongGSE =
+  131.2271
+LepZdelta_Hu_GSE =
+  107.5804
+LepZlambda_Hu_GSE =
+  291.1973
+Vht_t =
+  3.0272e+005
+ave_beta =
+    0.0325
+ave_Vt =
+  2.4079e+004
+ave_VA =
+  3.0934e+005
+mean_Vt_to_Va =
+    0.0778
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.5128    0.3555   -0.7815
+ys =
+   -0.0113   -0.9074   -0.4202
+zs =
+   -0.8585    0.2243   -0.4613
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Rfp =
+    0.0886
+Rfb =
+    0.0874
+Rfbz =
+    0.0875
+ratio of V_transversal to local Alfven speed:
+    0.0778
+ratio of remaining V to B: X Y Z
+rvb =
+   -0.0107   -0.3956    0.1960
+rvbdev =
+    0.8651    2.3595    6.3543
+dht =
+   -0.9998    0.0165   -0.0087
+--------------- Ende hu12n_opt.m: -------------------
+Warning: Imaginary part of complex variable 'dZzp' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1207,1)">optcloud at 1207</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Warning: Imaginary part of complex variable 'd_delta_phi' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1208,1)">optcloud at 1208</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Invarianz-Achse in delta-lambda (GSE) + error
+  149.1436  295.9305
+  13.5043                  0 +44.8531i
+Invarianz-Achse in theta-phi (GSE) + error
+  -27.4680  165.3584
+        0 +26.1262i        0 + 3.1166i
+Bz>0? Mean [nT]:
+   19.3200
+Max Bz [nT]
+   38.4286
+Invarianz Richtung in GSE:
+Zzp =
+   -0.8585    0.2243   -0.4613
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.7703    0.7703
+uncertainty =
+    0.3262    0.3262
+Number of original data points:
+rn =
+   114
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.770260482591264
+Zzp =
+   0.858455159202131  -0.224276523997989   0.461253488249817
+zs_1_red_zsg_2_blue =
+     1    17   101
+zs_1_red_zsg_2_blue =
+     2    17   101
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Zdelta_Hu_GSE =
+  149.1436
+Zlambda_Hu_GSE =
+  295.9305
+LepZlatGSE =
+  -62.7222
+LepZlongGSE =
+  131.2271
+LepZdelta_Hu_GSE =
+  107.5804
+LepZlambda_Hu_GSE =
+  291.1973
+Vht_t =
+  3.0272e+005
+ave_beta =
+    0.0325
+ave_Vt =
+  2.4079e+004
+ave_VA =
+  3.0934e+005
+mean_Vt_to_Va =
+    0.0778
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.5128    0.3555   -0.7815
+ys =
+   -0.0113   -0.9074   -0.4202
+zs =
+   -0.8585    0.2243   -0.4613
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Rfp =
+    0.0886
+Rfb =
+    0.0874
+Rfbz =
+    0.0875
+ratio of V_transversal to local Alfven speed:
+    0.0778
+ratio of remaining V to B: X Y Z
+rvb =
+   -0.0107   -0.3956    0.1960
+rvbdev =
+    0.8651    2.3595    6.3543
+dht =
+   -0.9998    0.0165   -0.0087
+--------------- Ende hu12n_opt.m: -------------------
+Warning: Imaginary part of complex variable 'dZzp' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1207,1)">optcloud at 1207</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Warning: Imaginary part of complex variable 'd_delta_phi' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1208,1)">optcloud at 1208</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Invarianz-Achse in delta-lambda (GSE) + error
+  149.1436  295.9305
+  13.5043                  0 +44.8531i
+Invarianz-Achse in theta-phi (GSE) + error
+  -27.4680  165.3584
+        0 +26.1262i        0 + 3.1166i
+Bz>0? Mean [nT]:
+   19.3200
+Max Bz [nT]
+   38.4286
+Invarianz Richtung in GSE:
+Zzp =
+   -0.8585    0.2243   -0.4613
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.7703    0.7703
+uncertainty =
+    0.3262    0.3262
+Number of original data points:
+rn =
+   114
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.770260482591264
+Zzp =
+   0.858455159202131  -0.224276523997989   0.461253488249817
+zs_1_red_zsg_2_blue =
+     1    17   101
+zs_1_red_zsg_2_blue =
+     2    17   101
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Zdelta_Hu_GSE =
+  149.1436
+Zlambda_Hu_GSE =
+  295.9305
+LepZlatGSE =
+  -62.7222
+LepZlongGSE =
+  131.2271
+LepZdelta_Hu_GSE =
+  107.5804
+LepZlambda_Hu_GSE =
+  291.1973
+Vht_t =
+  3.0272e+005
+ave_beta =
+    0.0325
+ave_Vt =
+  2.4079e+004
+ave_VA =
+  3.0934e+005
+mean_Vt_to_Va =
+    0.0778
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.5128    0.3555   -0.7815
+ys =
+   -0.0113   -0.9074   -0.4202
+zs =
+   -0.8585    0.2243   -0.4613
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Rfp =
+    0.0886
+Rfb =
+    0.0874
+Rfbz =
+    0.0875
+ratio of V_transversal to local Alfven speed:
+    0.0778
+ratio of remaining V to B: X Y Z
+rvb =
+   -0.0107   -0.3956    0.1960
+rvbdev =
+    0.8651    2.3595    6.3543
+dht =
+   -0.9998    0.0165   -0.0087
+--------------- Ende hu12n_opt.m: -------------------
+Warning: Imaginary part of complex variable 'dZzp' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1207,1)">optcloud at 1207</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Warning: Imaginary part of complex variable 'd_delta_phi' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1208,1)">optcloud at 1208</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Invarianz-Achse in delta-lambda (GSE) + error
+  149.1436  295.9305
+  13.5043                  0 +44.8531i
+Invarianz-Achse in theta-phi (GSE) + error
+  -27.4680  165.3584
+        0 +26.1262i        0 + 3.1166i
+Bz>0? Mean [nT]:
+   19.3200
+Max Bz [nT]
+   38.4286
+Invarianz Richtung in GSE:
+Zzp =
+   -0.8585    0.2243   -0.4613
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.7703    0.7703
+uncertainty =
+    0.3262    0.3262
+Number of original data points:
+rn =
+   114
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.770260482591264
+Zzp =
+   0.858455159202131  -0.224276523997989   0.461253488249817
+zs_1_red_zsg_2_blue =
+     1    17   101
+zs_1_red_zsg_2_blue =
+     2    17   101
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Zdelta_Hu_GSE =
+  149.1436
+Zlambda_Hu_GSE =
+  295.9305
+LepZlatGSE =
+  -62.7222
+LepZlongGSE =
+  131.2271
+LepZdelta_Hu_GSE =
+  107.5804
+LepZlambda_Hu_GSE =
+  291.1973
+Vht_t =
+  3.0272e+005
+ave_beta =
+    0.0325
+ave_Vt =
+  2.4079e+004
+ave_VA =
+  3.0934e+005
+mean_Vt_to_Va =
+    0.0778
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.5128    0.3555   -0.7815
+ys =
+   -0.0113   -0.9074   -0.4202
+zs =
+   -0.8585    0.2243   -0.4613
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Rfp =
+    0.0886
+Rfb =
+    0.0874
+Rfbz =
+    0.0875
+ratio of V_transversal to local Alfven speed:
+    0.0778
+ratio of remaining V to B: X Y Z
+rvb =
+   -0.0107   -0.3956    0.1960
+rvbdev =
+    0.8651    2.3595    6.3543
+dht =
+   -0.9998    0.0165   -0.0087
+--------------- Ende hu12n_opt.m: -------------------
+Warning: Imaginary part of complex variable 'dZzp' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1207,1)">optcloud at 1207</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Warning: Imaginary part of complex variable 'd_delta_phi' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1208,1)">optcloud at 1208</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Invarianz-Achse in delta-lambda (GSE) + error
+  149.1436  295.9305
+  13.5043                  0 +44.8531i
+Invarianz-Achse in theta-phi (GSE) + error
+  -27.4680  165.3584
+        0 +26.1262i        0 + 3.1166i
+Bz>0? Mean [nT]:
+   19.3200
+Max Bz [nT]
+   38.4286
+Invarianz Richtung in GSE:
+Zzp =
+   -0.8585    0.2243   -0.4613
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.7703    0.7703
+uncertainty =
+    0.3262    0.3262
+Number of original data points:
+rn =
+   114
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.770260482591264
+Zzp =
+   0.858455159202131  -0.224276523997989   0.461253488249817
+zs_1_red_zsg_2_blue =
+     1    17   101
+zs_1_red_zsg_2_blue =
+     2    17   101
+ ------------------ 1st: alternative ---------------------
+<a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1174,1)">1174 </a>disp('----------------- 2nd: minimum residue ------------------')
+dbclear ('S:\public_GS_code\optcloud.m', '1174')
+dbclear ('S:\public_GS_code\optcloud.m', '1174')
+dbclear ('S:\public_GS_code\optcloud.m', '1174')
+dbclear ('S:\public_GS_code\optcloud.m', '1174')
+dbclear ('S:\public_GS_code\optcloud.m', '1174')
+dbcont
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+??? Error using ==> cd
+Cannot CD to ACE_088_092_01 (Name is nonexistent or not a directory).
+
+Error in ==> <a href="matlab: opentoline('S:\public_GS_code\hu12n_opt.m',51,0)">hu12n_opt at 51</a>
+cd(dirstr)
+
+Error in ==> <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1178,0)">optcloud at 1178</a>
+savefiles=hu12n_opt(adjp, Zzp);
+
+Error in ==> <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,0)">mygui>pushbutton5_Callback at 232</a>
+optcloud;
+
+Error in ==> <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,0)">gui_mainfcn at 96</a>
+        feval(varargin{:});
+
+Error in ==> <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,0)">mygui at 61</a>
+    gui_mainfcn(gui_State, varargin{:});
+
+Error in ==>
+guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+
+
+??? Error while evaluating uicontrol Callback
+
+mygui
+NL =
+     0
+adjp =
+     1
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.770260482591264
+Zzp =
+   0.858455159202131  -0.224276523997989   0.461253488249817
+zs_1_red_zsg_2_blue =
+     1    17   101
+zs_1_red_zsg_2_blue =
+     2    17   101
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Zdelta_Hu_GSE =
+  149.1436
+Zlambda_Hu_GSE =
+  295.9305
+LepZlatGSE =
+  -62.7222
+LepZlongGSE =
+  131.2271
+LepZdelta_Hu_GSE =
+  107.5804
+LepZlambda_Hu_GSE =
+  291.1973
+Vht_t =
+  3.0272e+005
+ave_beta =
+    0.0325
+ave_Vt =
+  2.4079e+004
+ave_VA =
+  3.0934e+005
+mean_Vt_to_Va =
+    0.0778
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.5128    0.3555   -0.7815
+ys =
+   -0.0113   -0.9074   -0.4202
+zs =
+   -0.8585    0.2243   -0.4613
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Rfp =
+    0.0886
+Rfb =
+    0.0874
+Rfbz =
+    0.0875
+ratio of V_transversal to local Alfven speed:
+    0.0778
+ratio of remaining V to B: X Y Z
+rvb =
+   -0.0107   -0.3956    0.1960
+rvbdev =
+    0.8651    2.3595    6.3543
+dht =
+   -0.9998    0.0165   -0.0087
+--------------- Ende hu12n_opt.m: -------------------
+<a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1181,1)">1181 </a>delta_phi=double(delta_phi);
+dbcont
+Warning: Imaginary part of complex variable 'dZzp' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1207,1)">optcloud at 1207</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Warning: Imaginary part of complex variable 'd_delta_phi' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1208,1)">optcloud at 1208</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Invarianz-Achse in delta-lambda (GSE) + error
+  149.1436  295.9305
+  13.5043                  0 +44.8531i
+Invarianz-Achse in theta-phi (GSE) + error
+  -27.4680  165.3584
+        0 +26.1262i        0 + 3.1166i
+Bz>0? Mean [nT]:
+   19.3200
+Max Bz [nT]
+   38.4286
+Invarianz Richtung in GSE:
+Zzp =
+   -0.8585    0.2243   -0.4613
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.7703    0.7703
+uncertainty =
+    0.3262    0.3262
+Number of original data points:
+rn =
+   114
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.770260482591264
+Zzp =
+   0.858455159202131  -0.224276523997989   0.461253488249817
+zs_1_red_zsg_2_blue =
+     1    17   101
+zs_1_red_zsg_2_blue =
+     2    17   101
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Zdelta_Hu_GSE =
+  149.1436
+Zlambda_Hu_GSE =
+  295.9305
+LepZlatGSE =
+  -62.7222
+LepZlongGSE =
+  131.2271
+LepZdelta_Hu_GSE =
+  107.5804
+LepZlambda_Hu_GSE =
+  291.1973
+Vht_t =
+  3.0272e+005
+ave_beta =
+    0.0325
+ave_Vt =
+  2.4079e+004
+ave_VA =
+  3.0934e+005
+mean_Vt_to_Va =
+    0.0778
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.5128    0.3555   -0.7815
+ys =
+   -0.0113   -0.9074   -0.4202
+zs =
+   -0.8585    0.2243   -0.4613
+ZlatGSE =
+  -27.4680
+ZlongGSE =
+  165.3584
+Rfp =
+    0.0886
+Rfb =
+    0.0874
+Rfbz =
+    0.0875
+ratio of V_transversal to local Alfven speed:
+    0.0778
+ratio of remaining V to B: X Y Z
+rvb =
+   -0.0107   -0.3956    0.1960
+rvbdev =
+    0.8651    2.3595    6.3543
+--------------- Ende hu12n_opt.m: -------------------
+Warning: Imaginary part of complex variable 'dZzp' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1207,1)">optcloud at 1207</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Warning: Imaginary part of complex variable 'd_delta_phi' not saved to ASCII file.
+> In <a href="matlab: opentoline('S:\public_GS_code\optcloud.m',1208,1)">optcloud at 1208</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',232,1)">mygui>pushbutton5_Callback at 232</a>
+  In <a href="matlab: opentoline('C:\Program Files\MATLAB\R2008a\toolbox\matlab\guide\gui_mainfcn.m',96,1)">gui_mainfcn at 96</a>
+  In <a href="matlab: opentoline('S:\public_GS_code\mygui.m',61,1)">mygui at 61</a>
+  In guidemfile>@(hObject,eventdata)mygui('pushbutton5_Callback',hObject,eventdata,guidata(hObject))
+Invarianz-Achse in delta-lambda (GSE) + error
+  149.1436  295.9305
+  13.5043                  0 +44.8531i
+Invarianz-Achse in theta-phi (GSE) + error
+  -27.4680  165.3584
+        0 +26.1262i        0 + 3.1166i
+Bz>0? Mean [nT]:
+   19.3200
+Max Bz [nT]
+   38.4286
+Invarianz Richtung in GSE:
+Zzp =
+   -0.8585    0.2243   -0.4613
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.7703    0.7703
+uncertainty =
+    0.3262    0.3262
+Number of original data points:
+rn =
+   114
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.830904830156480
+Zzp =
+   0.477895329882892  -0.504905381385233   0.718809160712601
+zs_1_red_zsg_2_blue =
+     1     1   101
+zs_1_red_zsg_2_blue =
+     2     1   101
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -45.9562
+ZlongGSE =
+  133.4258
+Zdelta_Hu_GSE =
+  118.5480
+Zlambda_Hu_GSE =
+  305.0849
+LepZlatGSE =
+  -62.7222
+LepZlongGSE =
+  131.2271
+LepZdelta_Hu_GSE =
+  107.5804
+LepZlambda_Hu_GSE =
+  291.1973
+Vht_t =
+  5.2696e+005
+ave_beta =
+    0.0313
+ave_Vt =
+  2.7347e+004
+ave_VA =
+  3.1668e+005
+mean_Vt_to_Va =
+    0.0864
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.8784    0.2667   -0.3966
+ys =
+   -0.0086   -0.8209   -0.5710
+zs =
+   -0.4779    0.5049   -0.7188
+ZlatGSE =
+  -45.9562
+ZlongGSE =
+  133.4258
+Rfp =
+    0.0719
+Rfb =
+    0.0752
+Rfbz =
+    0.0838
+ratio of V_transversal to local Alfven speed:
+    0.0864
+ratio of remaining V to B: X Y Z
+rvb =
+    1.5355    4.0451   -0.2335
+rvbdev =
+    7.8080   53.5167    0.8030
+--------------- Ende hu12n_opt.m: -------------------
+Invarianz-Achse in delta-lambda (GSE) + error
+  118.5480  305.0849
+    7.9757    4.9824
+Invarianz-Achse in theta-phi (GSE) + error
+  -45.9562  133.4258
+    5.1668    7.2769
+Bz>0? Mean [nT]:
+   35.5285
+Max Bz [nT]
+   50.7333
+Invarianz Richtung in GSE:
+Zzp =
+   -0.4779    0.5049   -0.7188
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.8309    0.8309
+uncertainty =
+    0.3717    0.3717
+Number of original data points:
+rn =
+   105
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------
+******************************************************************
+------------------------- START optcloud.m ------------------
+nx =
+   101
+minres =
+   0.834678576324352
+Zzp =
+   0.474474909402405  -0.504803339860131   0.721142945894665
+zs_1_red_zsg_2_blue =
+     1     1   101
+zs_1_red_zsg_2_blue =
+     2     1   101
+ ------------------ 1st: alternative ---------------------
+----------------- 2nd: minimum residue ------------------
+--------------- ab hier hu12n_opt.m: -------------------
+porder =
+     3
+wi =
+     0
+     0
+     0
+ZlatGSE =
+  -46.1489
+ZlongGSE =
+  133.2261
+Zdelta_Hu_GSE =
+  118.3252
+Zlambda_Hu_GSE =
+  304.9922
+LepZlatGSE =
+  -59.7661
+LepZlongGSE =
+  123.0411
+LepZdelta_Hu_GSE =
+  105.9349
+LepZlambda_Hu_GSE =
+  296.0380
+Vht_t =
+  5.2727e+005
+ave_beta =
+    0.0313
+ave_Vt =
+  2.7227e+004
+ave_VA =
+  3.1668e+005
+mean_Vt_to_Va =
+    0.0860
+Basisvektoren des Invarianz-Systems in GSE:
+xs =
+    0.8802    0.2654   -0.3934
+ys =
+   -0.0072   -0.8214   -0.5703
+zs =
+   -0.4745    0.5048   -0.7211
+ZlatGSE =
+  -46.1489
+ZlongGSE =
+  133.2261
+Rfp =
+    0.0717
+Rfb =
+    0.0751
+Rfbz =
+    0.0839
+ratio of V_transversal to local Alfven speed:
+    0.0860
+ratio of remaining V to B: X Y Z
+rvb =
+    1.7025   17.6530   -0.3244
+rvbdev =
+   10.1504  185.7012    0.7945
+--------------- Ende hu12n_opt.m: -------------------
+Invarianz-Achse in delta-lambda (GSE) + error
+  118.3252  304.9922
+    8.1236    5.0237
+Invarianz-Achse in theta-phi (GSE) + error
+  -46.1489  133.2261
+    5.2062    7.4356
+Bz>0? Mean [nT]:
+   35.6029
+Max Bz [nT]
+   50.8099
+Invarianz Richtung in GSE:
+Zzp =
+   -0.4745    0.5048   -0.7211
+links minimumresidue, rechts alternative Stelle:
+min_residue =
+    0.8347    0.8347
+uncertainty =
+    0.3722    0.3722
+Number of original data points:
+rn =
+   105
+Number of grid points:
+nx =
+   101
+------------------------- END optcloud.m ------------------

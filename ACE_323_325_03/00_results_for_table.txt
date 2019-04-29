@@ -1,0 +1,36 @@
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 935.200256 &    (-27,165) & R & 0.055 & 0.042 &  0.026;2.620 &  274
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 917.641909 &    (-27,165) & R & 0.055 & 0.043 &  0.027;2.606 &  273
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:32 AM) & 605 & 671.712442 &    (-27,165) & R & 0.055 & 0.012 &  0.018;2.382 &  181
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.330829 &    (-27,165) & R & 0.051 & 0.013 &  0.013;2.394 &  124
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.129;2.394 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 683.416519 &    (-27,165) & R & 0.051 & 0.013 &  1.142;1.303 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.146;3.226 &  658
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:36:00 ( 7:00 AM) & 605 & 65.657577 &    (-27,165) & R & 0.051 & 0.013 &  0.151;1.224 &  565
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-27,165) & R & 0.051 & -0.018 &  0.106;2.720 &  503
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 12467182663889476000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000.000000 &    (-27,165) & R & 0.051 & 0.017 &  NaN;232.375 &  NaN
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 0.000000 &    (-46,133) & R & 0.088 & -0.032 &  0.150;3.741 &  670
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 56.935748 &    (-46,133) & R & 0.088 & 0.010 &  0.238;1.018 &  677
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 56.935748 &    (-46,133) & R & 0.088 & 0.010 &  0.470;1.918 &  1030
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 605 & 57.595958 &    (-46,133) & R & 0.088 & 0.011 &  0.393;1.940 &  948
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 606 & 56.882811 &    (-46,133) & R & 0.088 & 0.009 &  0.384;1.917 &  945
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 606 & 57.527690 &    (-46,133) & R & 0.088 & 0.011 &  0.394;1.939 &  949
+    Begin            Duration     VHT (km/s) Bzmax (nT) (theta,phi) H  size (AU) Y0 (AU)   ax/polflux (1e21 Mx)  Iz (MA)
+ 20-Nov-2003 11:48:00 ( 6:56 AM) & 606 & 57.527690 &    (-46,133) & R & 0.088 & 0.011 &  0.394;1.939 &  949
