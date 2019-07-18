@@ -7,3 +7,6 @@ For usage, see the handbook in the documentation folder.
 If this code is used for producing results that go into peer-reviewed scientific publications, 
 please add Charles J. Farrugia and Christian Möstl as co-authors, 
 and contact us at christian.moest@oeaw.ac.at
+
+It is also available on figshare:
+https://figshare.com/articles/Grad-Shafranov_reconstruction_for_Wind_or_ACE_data/5840913
